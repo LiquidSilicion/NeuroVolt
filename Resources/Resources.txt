@@ -1,3 +1,3 @@
 https://github.com/erwanregy/Neural-Network-on-an-FPGA
 https://www.youtube.com/watch?v=rw_JITpbh3k&list=PLA2a6J7-NSebvvG10-AkT4CoRIZuKOzM-&pp=gAQB
-https://www.ijcaonline.org/research/volume123/number13/walia-2015-ijca-905635.pdf
+
