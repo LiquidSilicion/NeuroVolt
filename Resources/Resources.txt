@@ -1,3 +1,11 @@
+Neural network related:
 https://github.com/erwanregy/Neural-Network-on-an-FPGA
 https://www.youtube.com/watch?v=rw_JITpbh3k&list=PLA2a6J7-NSebvvG10-AkT4CoRIZuKOzM-&pp=gAQB
+
+Matlab related:
+https://in.mathworks.com/help/hdlcoder/ug/integrate-hdl-ip-core-with-microchip-polarfire-soc.html
+
+Fuzzy related:
 https://akjournals.com/view/journals/1848/16/3/article-p437.xml
+
+BMS related:
