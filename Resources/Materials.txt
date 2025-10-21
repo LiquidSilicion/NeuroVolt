@@ -1,3 +1,6 @@
 Voltage Sensor
 Current Sensor
-Temp Sensor
+Temp Sensor - Thermistor
+MOSFET
+FPGA Board - PolarFire SoC Icicle Kit
+TFT Display
